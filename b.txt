@@ -1,0 +1,1 @@
+b.txt file is modified in first branch
