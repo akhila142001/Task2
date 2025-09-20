@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 b.txt file is modified in the first branch
+=======
+b.txt file is modified in first branch
+>>>>>>> c69502169f2a82536a0d20d51fbea367dffa4ec5
